@@ -1,4 +1,4 @@
-<img width="3000px" height="400px" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
+<img width="3000px" height="310px" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
 <h1 align="center">Hi 👋, I'm Mansi Verma</h1>
 <h3 align="center">A passionate data science student</h3>
 
